@@ -11,9 +11,6 @@ def lucky6():
 
     uplata = int(input("Unesite vasu uplatu: "))
 
-    #brojevi = [1, 7, 9, 13, 17, 46]
-    #uplata = 50
-
     kvote = [10000, 7500, 5000, 2500, 1000, 500, 300, 200, 150, 100, 90, 80, 70, 60, 50, 40, 30, 25, 20, 15, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
 
     br_izvucenih = 0
